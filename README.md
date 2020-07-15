@@ -1,9 +1,26 @@
 ### Hi there Jawd Ul Hassan Here!👋
 
-[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/React-Native-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Next-JS-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Context-API-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Redux-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Rx-Js-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Graph-QL-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/React-Apollo-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Node-Js-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Express-Js-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Mongo-DB-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Highchart-Js-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/D3-Js-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/JEST-UnitTesting-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/React-TestingLibrary-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/ES-Lint-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Service-Workers-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Web-sockets-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Styled-Components-<COLOR>.svg)](https://shields.io/)
 
-## 🔭 I'm currently working angular-cli 
-## 🌱 I’m currently learning Machine Learning and Data Sceince with python
+
+## 📫 How to reach me:jawadulhassan50@gmail.com | jawadulhassan.now.sh
 
 <!--
 **jawadulhassan/jawadulhassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
