@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there Jawd Ul Hassan Here!👋
+
+[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+
+## 🔭 I'm currently working angular-cli 
+## 🌱 I’m currently learning Machine Learning and Data Sceince with python
 
 <!--
 **jawadulhassan/jawadulhassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
