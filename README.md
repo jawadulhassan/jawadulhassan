@@ -4,7 +4,7 @@
 [![Generic badge](https://img.shields.io/badge/Next-JS-<COLOR>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Context-API-<COLOR>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Redux-<COLOR>.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/Rx-Js-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Rx-JS-<COLOR>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Graph-QL-<COLOR>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/React-Apollo-<COLOR>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Node-Js-<COLOR>.svg)](https://shields.io/)
