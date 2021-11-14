@@ -7,7 +7,7 @@
 [![Generic badge](https://img.shields.io/badge/Express-Js-<COLOR>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Mongo-DB-<COLOR>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/JEST-UnitTesting-<COLOR>.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/React-Testing-Library-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/React-TestingLibrary-<COLOR>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/ES-Lint-<COLOR>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Web-sockets-<COLOR>.svg)](https://shields.io/)
 
